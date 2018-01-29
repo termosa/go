@@ -1,4 +1,4 @@
-# go <sub><sup><sub>with ease</sub></sup></sub>
+# go <sub><sup><sub>with ease</sub></sup></sub> [![npm](https://img.shields.io/npm/v/go.svg?style=flat-square)](https://www.npmjs.com/package/go)
 
 Simple and extensible library to create boilerplate scripts.
 
